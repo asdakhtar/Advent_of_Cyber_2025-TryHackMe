@@ -44,4 +44,22 @@
 
 ##Day 23
 
-- 
+⦁	123456789012
+
+⦁	policy
+
+⦁	SirCarrotbanePolicy
+
+⦁	ListAllMyBuckets
+
+⦁	THM{more_like_sir_cloudbane}
+
+Day 24 - EnDs 
+
+⦁	THM{curl_post_success}
+
+⦁	THM{session_cookie_master}
+
+⦁	secretpass
+
+⦁	THM{user_agent_filter_bypassed}
