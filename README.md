@@ -2,44 +2,46 @@
 
 ##Day 21 
 
-Best Festival Company Developer Survey
+- Best Festival Company Developer Survey
 
-getQuestions
+- getQuestions
 
-survey.bestfestiivalcompany.com
+- survey.bestfestiivalcompany.com
 
-i
+- i
 
-4
+- 4
 
-south pole
+- south pole
 
-ComputerName,UserName
+- ComputerName,UserName
 
-details
+- details
 
-get
+- get
 
-runObject.Run “powershell.exe -nop -w hidden -c “ & feedbackString, 0, False
+- runObject.Run “powershell.exe -nop -w hidden -c “ & feedbackString, 0, False
 
-base64
+- base64
 
-rot13
+- rot13
 
-THM{Malware.Analysed}
+- THM{Malware.Analysed}
 
 
 ##Day 22
 
-6
+- 6
 
-prevalence
+- prevalence
 
-40
+- 40
 
-dst:rabbithole.malhare.net beacon:>=70 sort:duration-desc
+- dst:rabbithole.malhare.net beacon:>=70 sort:duration-desc
 
-80
+- 80
 
 
 ##Day 23
+
+- 
